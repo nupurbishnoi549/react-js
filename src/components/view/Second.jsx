@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from "../second/Home";
+import Home from '../second/home'
 const Second = () => {
   return (
     <div>
